@@ -1,0 +1,6 @@
+name: lolnet Inventory System
+main: nz.co.lolnet.lolnetinv.Main
+version: 0.1
+description: lolnet Inventory Control System
+authors: [CptWin]
+website: http://www.lolnet.co.nz
